@@ -1,0 +1,7 @@
+{
+    "port": 8000,
+    "defaultName": "Infringio",
+    "match": {
+        "enableAutoStartInMultiPrivate": true
+    }
+}
